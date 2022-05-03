@@ -13,6 +13,6 @@ description: Know about AmazingCate
 
 
 
-### In a scam-ridden environment, finding opportunities to invest early on has become increasingly risky for investors. So we bring The first-ever decentralized project on Binance Smart Chain which provides play to earn feature where the game is all about to 'earn while you invest' and boost your earnings to the next level&#x20;
+### In a scam-ridden environment, finding opportunities to invest early on has become increasingly risky for investors. So we bring The first-ever decentralized project on Binance Smart Chain which provides play to earn feature where you can Run and Earn Acate&#x20;
 
-### Imagine being able to track fresh new tokens immediately even before they launch while being sure if buying them is safe<mark style="color:purple;">.</mark>
+### Imagine being able to track fresh new tokens immediately even before they launch while being sure if buying them is safe The vision of Amazing Cate is to achieve a long-term firm position in the Run to Earn marketplace by helping the Crypto investor to invest and earn by the means of our platform for investment. To provide a healthy community for investors. changes and improvements at different stages of its growth and development.

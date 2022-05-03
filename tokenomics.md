@@ -4,21 +4,21 @@
 
 **Name: AmazingCate**
 
-**Distribution: 35%**&#x20;
+**Presale 40%**
 
-**Ecosystem - 30%**&#x20;
+**Liquidity 24%**
 
-**Liquidity - 15%**&#x20;
+**P2E Rewards 30%**
 
-**Exchange Listing - 10%**&#x20;
+**Listing and Promotion 5%**
 
-**Marketing - 10%**&#x20;
+**Team 1%**
 
 **Contract:**
 
-**Supply: 100,000,00,00,00,00**
+**Supply: 100,000,000,000**
 
-**Purpose:**&#x20;
+**Purpose: Run to earn Meme Platform, Dapps**
 
 \
 
