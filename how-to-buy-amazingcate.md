@@ -18,4 +18,4 @@
 
 <mark style="color:blue;">4. Be safe in the space.</mark>
 
-**Enter the amount of $BNB or your favorite coin you would like to swap for $Amazingcate. Click connect wallet like to purchase, set the slippage to 10% or more and press swap!**
+**Enter the amount of $BNB or your favorite coin you would like to swap for $Acate. Click connect wallet like to purchase, set the slippage to 10% or more and press swap!**
