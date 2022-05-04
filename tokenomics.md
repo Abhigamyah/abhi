@@ -14,7 +14,9 @@
 
 **Team 1%**
 
-**Contract:**  [**https://bscscan.com/token/0xfc0df24aee9ddcf56826ea887b5e71f540aeb5b4**](https://bscscan.com/token/0xfc0df24aee9ddcf56826ea887b5e71f540aeb5b4)****
+**Contract:** &#x20;
+
+**0xfc0df24aee9ddcf56826ea887b5e71f540aeb5b4**
 
 **Supply: 100,000,000,000**
 
